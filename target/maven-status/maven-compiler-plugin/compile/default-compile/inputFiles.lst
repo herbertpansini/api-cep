@@ -1,8 +1,11 @@
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/controller/dto/ViaCep.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/controller/CepController.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/mapper/CepMapper.java
+/home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/service/ViaCepServiceImpl.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/service/CepService.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/service/CepServiceImpl.java
+/home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/service/ViaCepService.java
+/home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/client/ViaCepClient.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/mapper/CidadeMapper.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/util/Util.java
 /home/basis/Documents/workspace/api-cep/src/main/java/br/com/cep/CepApplication.java

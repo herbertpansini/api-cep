@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CepApplication<cep>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.cep.CepApplication",
+            "projectName": "cep",
+            "args": ""
+        }
+    ]
+}

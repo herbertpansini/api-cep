@@ -1,12 +1,10 @@
 package br.com.cep.model;
 
 import java.io.Serializable;
-import java.util.List;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
 import lombok.Data;
@@ -27,7 +25,4 @@ public class Cidade implements Serializable {
 	
 	@Column(name = "localidade", length = 100, nullable = false)  
 	private String localidade;
-	
-	@OneToMany(mappedBy = "cidade")
-	private List<Cep> ceps;
 }

@@ -12,7 +12,6 @@ import br.com.cep.controller.dto.CepDto;
 import br.com.cep.controller.dto.CidadeDto;
 import br.com.cep.controller.dto.ViaCep;
 import br.com.cep.service.CepService;
-import br.com.cep.service.CidadeService;
 import br.com.cep.service.ViaCepService;
 import br.com.cep.util.Util;
 import lombok.RequiredArgsConstructor;
@@ -21,7 +20,6 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class CepController {
 	
-	private final CidadeService cidadeService;
 	private final CepService cepService;
 	private final ViaCepService viaCepService;
 	
@@ -35,9 +33,7 @@ public class CepController {
 			CidadeDto cidadeDto = new CidadeDto();
 			cidadeDto.setIbge(viaCep.getIbge());
 			cidadeDto.setLocalidade(viaCep.getLocalidade());
-			cidadeDto.setUf(viaCep.getUf());			
-
-			this.cidadeService.save(cidadeDto);
+			cidadeDto.setUf(viaCep.getUf());
 			
 			cepDto = new CepDto();
 			cepDto.setCep(viaCep.getCep());
@@ -45,7 +41,7 @@ public class CepController {
 			cepDto.setComplemento(viaCep.getComplemento());
 			cepDto.setBairro(viaCep.getBairro());
 			cepDto.setCidade(cidadeDto);			
-			
+
 			this.cepService.save(cepDto);
 		}
 		return ResponseEntity.ok(cepDto);

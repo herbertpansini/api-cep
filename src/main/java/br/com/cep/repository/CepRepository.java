@@ -14,6 +14,6 @@ public interface CepRepository extends JpaRepository<Cep, String> {
 	
 	public Cep findByCep(String cep);
 	
-	@Query("SELECT cp FROM Cep cp INNER JOIN FETCH cp.cidade cid  WHERE (cid.ibge = :ibge) AND (:uf IS NULL OR cid.uf = :uf)")
+	@Query("SELECT cp FROM Cep cp INNER JOIN cp.cidade cid  WHERE (cid.ibge = :ibge) AND (:uf IS NULL OR cid.uf = :uf)")
 	public List<Cep> findByIbgeAndUf(@Param("ibge") String ibge, @Param("uf") String uf);
 }

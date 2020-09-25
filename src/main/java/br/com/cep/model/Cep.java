@@ -2,6 +2,7 @@ package br.com.cep.model;
 
 import java.io.Serializable;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -31,7 +32,7 @@ public class Cep implements Serializable {
 	@Column(name = "bairro", length = 50, nullable = true)
 	private String bairro;
 
-	@ManyToOne	
+	@ManyToOne(cascade = { CascadeType.PERSIST, CascadeType.MERGE })
     @JoinColumn(name="ibge", columnDefinition = "varchar(20)", nullable = false)
 	private Cidade cidade;
 }

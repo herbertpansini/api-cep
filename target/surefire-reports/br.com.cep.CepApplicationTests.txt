@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.cep.CepApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.266 s - in br.com.cep.CepApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.282 s - in br.com.cep.CepApplicationTests

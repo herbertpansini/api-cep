@@ -1,12 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6efe7ed0-18cf-4986-b051-fc79b8605785" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_29_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cep.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cep/controller/CepController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cep/controller/CepController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cep/controller/dto/CidadeDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cep/controller/dto/CidadeDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cep/model/Cep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cep/model/Cep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/cep/model/Cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/cep/model/Cidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cep-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cep-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com.cep/cep/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com.cep/cep/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/controller/CepController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/controller/CepController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/controller/dto/CidadeDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/controller/dto/CidadeDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/controller/dto/ViaCep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/controller/dto/ViaCep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/mapper/EntityMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/mapper/EntityMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/model/Cep.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/model/Cep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/service/CepService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/service/CepService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/cep/util/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/cep/util/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/br/com/cep/mapper/CepMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/br/com/cep/mapper/CepMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/br/com/cep/mapper/CidadeMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/br/com/cep/mapper/CidadeMapperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-br.com.cep.CepApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/br.com.cep.CepApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/cep/CepApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/cep/CepApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +109,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../avaliacao-basis/pom.xml" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../avaliacao-basis" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CepApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.cep.CepApplication" />
+      <module name="cep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.cep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CepApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,10 +149,67 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599867867261">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="441" y="141" width="712" height="511" key="#xdebugger.evaluate" timestamp="1600086416369">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
+    <state x="441" y="141" width="712" height="511" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1600086416369" />
+    <state x="529" y="226" width="374" height="341" key="FileChooserDialogImpl" timestamp="1600179087313">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="529" y="226" width="374" height="341" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1600179087313" />
     <state x="743" y="310" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1599867867261" />
+    <state width="1320" height="253" key="GridCell.Tab.0.bottom" timestamp="1600087444666">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600087444666" />
+    <state width="1320" height="253" key="GridCell.Tab.0.center" timestamp="1600087444665">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1600087444665" />
+    <state width="1320" height="253" key="GridCell.Tab.0.left" timestamp="1600087444665">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1600087444665" />
+    <state width="1320" height="253" key="GridCell.Tab.0.right" timestamp="1600087444666">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1600087444666" />
+    <state width="1320" height="253" key="GridCell.Tab.1.bottom" timestamp="1600087444667">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1600087444667" />
+    <state width="1320" height="253" key="GridCell.Tab.1.center" timestamp="1600087444666">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1600087444666" />
+    <state width="1320" height="253" key="GridCell.Tab.1.left" timestamp="1600087444666">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1600087444666" />
+    <state width="1320" height="253" key="GridCell.Tab.1.right" timestamp="1600087444666">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="253" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1600087444666" />
+    <state x="172" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1600082734275">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1600082734275" />
+    <state x="0" y="27" width="618" height="741" key="find.popup" timestamp="1600085997900">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="618" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1600085997900" />
   </component>
 </project>
